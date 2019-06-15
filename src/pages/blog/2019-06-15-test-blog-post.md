@@ -7,3 +7,5 @@ featuredpost: true
 featuredimage: /img/img-20171020-wa0033.jpg
 ---
 This is another super awesome test post by the great author :)
+
+![Test Alt Text](/img/img-20171020-wa0033.jpg "Test Title")
